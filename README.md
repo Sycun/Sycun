@@ -1,6 +1,6 @@
 # Sycun
 
-**CISA · CAMS**
+**CyberStrikeAI 官方核心维护者 · CISA · CAMS**
 
 关注 AI 安全工具开发与安全测试实践，围绕自动化渗透测试、Agent 工作流、MCP 工具集成和代码安全审查开展维护与研究。
 
